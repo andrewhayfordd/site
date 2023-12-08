@@ -68,7 +68,7 @@ Feel free to explore these ideas or propose your own enhancements. We encourage 
 
 The following issues have been identified and are currently being addressed:
 
-Please check the [Issues](https://github.com/nerskllc/site/issues) section for updates on these and other known issues.
+Please check the [Issues](https://github.com/nerskcorp/site/issues) section for updates on these and other known issues.
 
 ## License
 
