@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/nerskcorp/">
-  <img src="https://github.com/gdsc-gctu/home/blob/main/gdsclogo.png" alt="Logo" width="400">
+  <img src="https://github.com/nerskcorp/site/blob/main/nersktp.png" alt="Logo" width="400">
   </a>
 </div>
 
-# StartApps Web Page
+# Nersk Official Website
 
 Welcome to Nersl LLC website repo the repository for the start-up's web page! This project serves as the online presence for our software development startup, 
 showcasing our portfolio, services, and the incredible team behind our success.
